@@ -36,6 +36,10 @@ iframe {
     margin-top: 600px;
 }
 
+.video {
+    margin: auto;
+}
+
 
 @media screen and (max-width: 1141px){
 
