@@ -32,12 +32,10 @@ h1 span:nth-child(7) {
 }
 
 iframe {
-    margin: 10px;
     margin-top: 600px;
-}
-
-.video {
-    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -77,7 +75,7 @@ iframe {
     min-width: 124px;
     min-height: 124px;
     margin-bottom: 20px;
-    margin-top: 300px;
+    margin-top: 50px;
     padding: 10px 20px;
     background-color: #f0f8ff;
     -webkit-box-shadow: 0px 0px 40px 0px rgba(220,228,235,1);
